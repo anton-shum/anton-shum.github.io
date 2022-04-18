@@ -1,5 +1,11 @@
 # Anton Shumakov
 
+</div>
+<a href="https://t.me/anton_shumakov/"><img src="https://img.shields.io/badge/-Telegram-c14438?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/anton_shumakov/" alt="LinkedIn"></a>
+<a href="mailto:ashumakov42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashumakov42@gmail.com" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/anton-shumakov/"><img src="https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/anton-shumakov/" alt="LinkedIn"></a>
+</div>
+
 ## About
 
 Hi, I'm a Python developer with expertise in DevOps, information security, and machine learning. I love developing B2C products that help make the world a better place. 
@@ -15,6 +21,6 @@ I have experience in conducting public trainings and webinars. Every day I try t
 
 ## Main topics
 
-- Python 3
-- Kubernetes
-- Security
+- Dev (Python3, Django, FastAPI, ReactJS)
+- DevOps (Kubernetes, AWS)
+- Security (MITRA, BurpSuite, IDA Pro)
