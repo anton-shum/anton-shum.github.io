@@ -1,10 +1,8 @@
 # Anton Shumakov
 
-</div>
 <a href="https://t.me/anton_shumakov/"><img src="https://img.shields.io/badge/-Telegram-c14438?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/anton_shumakov/" alt="LinkedIn"></a>
 <a href="mailto:ashumakov42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashumakov42@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/anton-shumakov/"><img src="https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/anton-shumakov/" alt="LinkedIn"></a>
-</div>
 
 ## About
 
