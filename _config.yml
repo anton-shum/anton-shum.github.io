@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: 🌐💻🐍
+description: Anton Shumakov
+logo: /images/avatar.png
+
+github:
+  is_project_page: false
+  show_downloads: false
+  is_user_page: false
