@@ -3,10 +3,10 @@
 
 |||
 |-|-|
-|Email|ashumakov42@gmail.com|
-|Web|https://anton-shumakov.com/|
-|LinkedIn|https://linkedin.com/in/anton-shumakov/|
-|GitHub|https://github.com/anton-shumakov/|
+|Email|[ashumakov42@gmail.com](mailto:ashumakov42@gmail.com)|
+|Web|[anton-shumakov.com](https://anton-shumakov.com/)|
+|LinkedIn|[linkedin.com/in/anton-shumakov](https://linkedin.com/in/anton-shumakov/)|
+|GitHub|[github.com/anton-shumakov](https://github.com/anton-shumakov/)|
 
 ## Profile
 
