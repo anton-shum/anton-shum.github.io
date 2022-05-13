@@ -39,7 +39,7 @@ KION, 09/2021 – 04/2022
 Positive Technologies, 07/2020 – 06/2021
 
 - Investigation of software for malicious actions
-- Writing research tools in Pytho
+- Writing research tools in Python
 
 ## Education
 
