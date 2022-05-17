@@ -4,9 +4,9 @@
 |||
 |-|-|
 |Email|[ashumakov42@gmail.com](mailto:ashumakov42@gmail.com)|
-|Web|[anton-shumakov.com](https://anton-shumakov.com/)|
-|LinkedIn|[linkedin.com/in/anton-shumakov](https://linkedin.com/in/anton-shumakov/)|
-|GitHub|[github.com/anton-shumakov](https://github.com/anton-shumakov/)|
+|Web|[anton-shum.com](https://anton-shumakov.com/)|
+|LinkedIn|[linkedin.com/in/anton-shum](https://linkedin.com/in/anton-shumakov/)|
+|GitHub|[github.com/anton-shum](https://github.com/anton-shumakov/)|
 
 ## Profile
 
