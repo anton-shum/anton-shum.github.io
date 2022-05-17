@@ -1,4 +1,4 @@
-#  Anton Shumakov 
+#  Anton Shum
 ## Personal Information
 
 |||
