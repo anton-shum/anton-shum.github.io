@@ -1,4 +1,4 @@
-# Anton Shumakov
+# Anton Shum
 
 <a href="https://t.me/anton_shumakov/"><img src="https://img.shields.io/badge/-Telegram-c14438?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/anton_shumakov/" alt="LinkedIn"></a>
 <a href="mailto:ashumakov42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashumakov42@gmail.com" alt="Gmail"></a>
