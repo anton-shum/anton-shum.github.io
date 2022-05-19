@@ -22,16 +22,16 @@ I consider it important to make a quality product on time, so I dive into the bu
 
 ### Software engineer
 
-Code Factory 42, 04/2022 – present
+Neatsy, 04/2022 – present
 
-- Python backend development with Django and FastAPI
-- Setting up infrastructure on AWS
+- Python backend development with FastAPI, Celery
+- Development of bots for Slack and Telegram for automation
 
 ### Software engineer
 
 KION, 09/2021 – 04/2022
 
-- API development for machine learning models in python with FastAPI
+- API development for machine learning models in Python with FastAPI
 - Setting up cloud infrastructure and big data stores
 - Project management and communication with other teams
 
